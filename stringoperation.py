@@ -1,5 +1,5 @@
-text = str(input("Enter a string:"))
-revText = text[::-1]
-text = revText
-print("Reverse of Given String is:")
-print(text)
+name = str(input("Enter your name: "))
+congratulations = ("Congratulaions")
+print("Hi")
+print(name)
+print("Congrats")
